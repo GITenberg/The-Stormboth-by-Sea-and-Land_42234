@@ -1,0 +1,34 @@
+_repo: The-Stormboth-by-Sea-and-Land_42234
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42234-h/images/coverimage.jpg
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Defo, Daniel
+    - Moreton, Andrew
+    - John, Gabriel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+description: ''
+gutenberg_issued: '2013-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42234'
+  lccn: '77358613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Storms -- Early works to 1800'
+title: "The Storm\r\nor, a Collection of the most Remarkable Casualties and Disasters\
+  \ which Happen'd in the Late Dreadful Tempest, both by Sea and Land"
+url: http://www.gutenberg.org/ebooks/42234
