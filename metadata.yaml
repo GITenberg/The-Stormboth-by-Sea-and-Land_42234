@@ -17,6 +17,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/j#a26500
     - http://en.wikipedia.org/wiki/Daniel_Defoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42234#The-Stormboth-by-Sea-and-Land
 gutenberg_issued: '2013-03-01'
 gutenberg_type: Text
 identifiers:
